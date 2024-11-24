@@ -5,6 +5,7 @@ import Tracklist from '../Tracklist/Tracklist'
 const Playlist = () => {
   return (
     <div>Playlist</div>
+    <div>Ohla</div>
   )
 }
 
